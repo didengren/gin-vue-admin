@@ -1,3 +1,5 @@
-go.sum
+**/go.sum
 .idea/
 log/
+bin/
+pkg/
